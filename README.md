@@ -14,14 +14,14 @@ It will be published soon to `npmjs`, but for now
 # How to use it?
 
 open your terminal
-type
 
-`voilk-cli -c get_account -i bilal`
-`voilk-cli -c get_chain_id`
-or
 
-`voilk-cli --version`
-`voilk-cli --help`
+1) `voilk-cli -c get_account -i bilal`
+2) `voilk-cli -c get_chain_id`
+
+
+3) `voilk-cli --version`
+4) `voilk-cli --help`
 
 ## Credit ?
 
