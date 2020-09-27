@@ -5,7 +5,7 @@ const axios = require("axios");
 const voilk = require('voilk');
 
 const options = yargs
- .usage("Usage: voilk-cmd -c <command> -i <inputs>")
+ .usage("Usage: voilk-cli -c <command> -i <inputs>")
  .usage("Commands you can try..")
  .usage(" -c get_account -i bilal ")
  .option("c", { alias: "command", describe: "Run a command", type: "string", demandOption: true })
