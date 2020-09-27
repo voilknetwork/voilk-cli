@@ -1,0 +1,21 @@
+{
+  "name": "voilk-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "voilk-cli": "./bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "boxen": "^4.0.0",
+    "chalk": "^2.4.2",
+    "voilk": "^0.7.15",
+    "yargs": "^13.2.4"
+  }
+}
